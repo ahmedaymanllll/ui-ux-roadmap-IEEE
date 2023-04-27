@@ -3,6 +3,8 @@
 ## Content:
 
 - [The Difference between UI & UX](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference)
+- [Figma Tool](https://learnux.io/course/figma)
+- [UX DESIGN FUNDAMENTALS Course](https://maharatech.gov.eg/course/view.php?id=1231)
 
     
 ## Tasks:
