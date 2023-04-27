@@ -11,7 +11,7 @@
 
 
 [Figma Tool](https://learnux.io/course/figma)<br>
-[User interface design principles Course](https://www.edraak.org/en/programs/course/uidesign-v1/)
+[User interface design principles Course](https://www.edraak.org/en/programs/course/uidesign-v1/) _Edraak
 
     
 
