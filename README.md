@@ -17,8 +17,7 @@ Are you ready? let's get started
 #
 ## Timeline:
 
-* Design newbie “6 weeks”
-* UI UX Beginner “10 weeks”
+* UI UX Beginner “6 weeks”
 * UI UX Intermediate
 * UI UX Advanced
 * Building Projects
