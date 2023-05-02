@@ -13,7 +13,7 @@
 [Figma Tool](https://learnux.io/course/figma)<br>
 or <br>
 [Figma Tool](https://www.youtube.com/watch?v=kbZejnPXyLM)<br>
-[User interface design principles Course](https://www.edraak.org/en/programs/course/uidesign-v1/) _Edraak <br>
+[User interface design principles Course](https://www.edraak.org/en/programs/course/uidesign-v1/) _Edraak <br><br>
  **Task:**
  - [Mobile app](https://dribbble.com/shots/19021013-Mobile-App-iOS-Android-UI)
 
