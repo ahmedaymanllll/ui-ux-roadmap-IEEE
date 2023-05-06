@@ -26,13 +26,13 @@ Are you ready? let's get started
 ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
  ## Resources you will need it
     
-    - *Images*
+  - *Images*
         - [Unsplash](https://unsplash.com/)
         - [Pexels](https://www.pexels.com/)
         - [Freepik](https://www.freepik.com/)
         - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
         - [Pinterest](https://www.pinterest.com/)
-    - *Icons*
+  - *Icons*
         - [Freeicons](https://freeicons.io/)
         - [Flaticon](https://www.flaticon.com/)
         - [Icons8](https://icons8.com/)
@@ -41,22 +41,22 @@ Are you ready? let's get started
         - [Feather icons](https://feathericons.com/)
         - [Icons store](https://iconstore.co/)
         - [Simple icon](https://simpleicons.org/)
-    - *Illustrations*
+  - *Illustrations*
         - [Storyset](https://storyset.com/)
         - [Undraw](https://undraw.co/Illustrations)
         - [Illustation](https://illustation.io/)
         - [Drawkit](https://drawkit.com/)
-    - *Fonts*
+  - *Fonts*
         - [google fonts](https://fonts.google.com/)
         - [Dafont](https://www.dafont.com/)
         - [1001Fonts](https://www.1001fonts.com/)
-    - Color inspiration
+    Color inspiration
         - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)
         - [Colormind](http://colormind.io/)
         - [Colorinspire](https://colorinspire.webflow.io/)
-    - *Inspiration*
+  - *Inspiration*
         - [Behance](https://www.behance.net/)
         - [Dribbble](https://dribbble.com/)
         - [mobbin](https://mobbin.design/browse/ios/apps)
@@ -64,7 +64,7 @@ Are you ready? let's get started
         - [important site](https://www.designresourc.es/)
 
 
-    ## **▶️ Contact 📱**
+   ## **▶️ Contact 📱**
 
      <a href="https://www.facebook.com/MennaMElgyar"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/menna-elgyar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
