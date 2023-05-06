@@ -66,8 +66,8 @@ Are you ready? let's get started
 
  ## **▶️ Contact 📱**
 
-     <a href="https://www.facebook.com/MennaMElgyar"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-     <a href="https://www.linkedin.com/in/menna-elgyar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.facebook.com/MennaMElgyar"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/menna-elgyar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 
