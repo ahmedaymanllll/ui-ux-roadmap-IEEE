@@ -50,7 +50,7 @@ Are you ready? let's get started
         - [google fonts](https://fonts.google.com/)
         - [Dafont](https://www.dafont.com/)
         - [1001Fonts](https://www.1001fonts.com/)
-    Color inspiration
+  - *Color inspiration* 
         - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)
@@ -64,7 +64,7 @@ Are you ready? let's get started
         - [important site](https://www.designresourc.es/)
 
 
-   ## **▶️ Contact 📱**
+ ## **▶️ Contact 📱**
 
      <a href="https://www.facebook.com/MennaMElgyar"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/menna-elgyar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
