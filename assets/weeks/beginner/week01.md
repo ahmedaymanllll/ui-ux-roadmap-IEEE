@@ -4,6 +4,7 @@
 
  **Articles:**
 - [The Difference between UI & UX](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference)
+- [UX Roles](https://www.interaction-design.org/literature/topics/ux-roles#:~:text=UX%20roles%20describe%20the%20various,of%20the%20ideal%20design%20process)
 - [Principles of UI Design](https://uxplanet.org/7-key-principles-of-ui-design-fbf05f5805f)
 
  **Vedios:**
