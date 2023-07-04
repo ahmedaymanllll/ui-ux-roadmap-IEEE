@@ -12,7 +12,7 @@
 - [Principles of UI design: Alignment](https://uxdesign.cc/principles-of-ui-design-alignment-dd707e983f29)
 - [How to use 8pt grid & spacing](https://www.youtube.com/watch?v=ctXmOtBNwV8)
 
-[Foundations of User Experience (UX) Design](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design) _First 2 weeks
+
 
  **Task:**
  document about what we learned at course
