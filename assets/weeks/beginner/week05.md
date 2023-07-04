@@ -10,7 +10,7 @@
 - [How to use Visual Hierarchy in UX Design](https://www.youtube.com/watch?v=q-ITCNz63mo)
 - [ Repetition](https://www.youtube.com/watch?v=8zhhc5pzE9Y)
 
-[Start the UX Design Process: Empathize, Define, and Ideate](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design) _first 2 weeks
+
 
  **Task:**
  document about what we learned at course
