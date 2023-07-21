@@ -1,15 +1,18 @@
-# Week 7: 
+# Week 7
 
 ## Content:
 
  **Articles:**
-- [Proximity Principle in Visual Design](https://www.nngroup.com/articles/gestalt-proximity/)
+- [UX Roles](https://medium.com/@mennaelgyar4/ux-roles-356d8ef68a3d)
 
- **Videos:**
-- [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
-- [Proximity](https://www.youtube.com/watch?v=xUdqSiI_G8Y)
+ **Vedios:**
+- [Foundations of User Experience Design | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6oHnGp4Ib3n0y-CmFQdTW6r) <br>
+OR <br>
+- [Foundations of User Experience Design | Coursera](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design)
 
-[Foundations of User Experience (UX) Design](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design) _First 2 weeks
 
  **Task:**
- document about what we learned at course
+ select any idea to work on as design
+
+
+    
