@@ -1,1 +1,18 @@
-[Foundations of User Experience (UX) Design](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design) _Next 2 weeks
+# Week 8
+
+## Content:
+
+ **Articles:**
+- [What is a UX Researcher?](https://careerfoundry.com/en/blog/ux-design/ux-researcher-career-guide/)
+
+ **Vedios:**
+- [Empathize, Define, and Ideate Google UX Design Certificate | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qCRHskLgKf6Olzbbuy-5ce) <br>
+OR <br>
+- [Start the UX Design Process: Empathize, Define, and Ideate | Coursera](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
+
+
+ **Task:**
+ select any idea to work on as design
+
+
+    
