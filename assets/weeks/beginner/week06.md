@@ -12,5 +12,4 @@
 
 
  **Task:**
- - [AI courses mobile interaction](https://dribbble.com/shots/22057023-AI-courses-mobile-interaction
-)
+ Any idea as a design (up 10 Screen)
