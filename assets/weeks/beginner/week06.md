@@ -12,4 +12,4 @@
 
 
  **Task:**
- Any idea as a design (up 10 Screen)
+ Any idea as a design (up 8 Screen)
