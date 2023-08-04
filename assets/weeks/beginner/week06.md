@@ -12,5 +12,5 @@
 
 
  **Task:**
- document about what we learned at course
-
+ - [AI courses mobile interaction](https://dribbble.com/shots/22057023-AI-courses-mobile-interaction
+)
