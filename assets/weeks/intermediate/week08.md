@@ -2,15 +2,17 @@
 
 ## Content:
 
- **Articles:**
-- [What is a UX Researcher?](https://careerfoundry.com/en/blog/ux-design/ux-researcher-career-guide/)
+ 
 
- **Vedios:**
- first 2 weeks
- - [Start the UX Design Process: Empathize, Define, and Ideate | Coursera](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
-  OR <br>
-- [Empathize, Define, and Ideate Google UX Design Certificate | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qCRHskLgKf6Olzbbuy-5ce) <br>
-
+ **Videos:**
+ 
+ - [Figma Component](https://www.youtube.com/watch?v=j55a1IFda3A&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=7)
+  
+- [Figma Variant](https://www.youtube.com/watch?v=eMgnfFHYTV8&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=8) 
+- [Interactive Component](https://www.youtube.com/watch?v=otkYZD3VJ4E&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=9) 
+- [Boolean](https://www.youtube.com/watch?v=0_NRDUjnoPA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=12) 
+- [Practcie](https://www.youtube.com/watch?v=WjmQWB06ao8&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=14) 
+ <br>
 
 
  **Task:**
