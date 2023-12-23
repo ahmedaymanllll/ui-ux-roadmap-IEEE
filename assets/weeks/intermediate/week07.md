@@ -8,8 +8,7 @@
 - [What Is the UX Design Process?](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/#:~:text=The%20UX%20design%20process%20can,UX%20is%20an%20iterative%20process.)
 
  **Videos:**
-- [Auto layout](https://www.youtube.com/watch?v=-
-6Cd0r3taRo
+- - [Autolayout](https://www.youtube.com/watch?v=-6Cd0r3taRogit)
 ) <br>
 OR <br>
 - [Resizeing](https://www.youtube.com/watch?v=Y1CHg3KVQoc&list=PLqVHb744A1CJgdKsl3FXGeAxSjp7aoYlb&index=6)
