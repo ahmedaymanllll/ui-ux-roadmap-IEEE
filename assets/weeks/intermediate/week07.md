@@ -7,14 +7,16 @@
 - [UX Research Methods](https://medium.com/@mennaelgyar4/ux-research-methods-92c6ecdc6a70)
 - [What Is the UX Design Process?](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/#:~:text=The%20UX%20design%20process%20can,UX%20is%20an%20iterative%20process.)
 
- **Vedios:**
-- [Foundations of User Experience Design | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6oHnGp4Ib3n0y-CmFQdTW6r) <br>
+ **Videos:**
+- [Auto layout](https://www.youtube.com/watch?v=-
+6Cd0r3taRo
+) <br>
 OR <br>
-- [Foundations of User Experience Design | Coursera](https://www.coursera.org/learn/foundations-user-experience-design?specialization=google-ux-design)
-
+- [Resizeing](https://www.youtube.com/watch?v=Y1CHg3KVQoc&list=PLqVHb744A1CJgdKsl3FXGeAxSjp7aoYlb&index=6)
+- [Master Autolayout](https://www.youtube.com/watch?v=Kf8L3CeiWzQ&t=205s)
 
  **Task:**
- select any idea to work on as design
+ Copy those screens using autolayout
 
 
     
