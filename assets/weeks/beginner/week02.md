@@ -9,7 +9,8 @@
 <br>
 videos
 <br>
-- [figma tool](https://www.youtube.com/watch?v=3Szjqa6v93I)
+
+ - [figma tool](https://www.youtube.com/watch?v=3Szjqa6v93I)
 
  **Task:**
  - [Podcast App](https://dribbble.com/shots/20402022-Podcast-App-iOS-Android-mobile-application)
