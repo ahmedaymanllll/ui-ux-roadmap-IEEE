@@ -2,17 +2,15 @@
 
 ## Content:
 
- **Articles:**
 
 
- **Vedios:**
- Last 2 weeks
- - [Start the UX Design Process: Empathize, Define, and Ideate | Coursera](https://www.coursera.org/learn/start-ux-design-process?specialization=google-ux-design)
-  OR <br>
-- [Empathize, Define, and Ideate Google UX Design Certificate | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qCRHskLgKf6Olzbbuy-5ce) <br>
 
-
+ **Videos:**
+ 
+ - [Organize Your Figma File](https://www.youtube.com/watch?v=3RjE5eEdAos&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=13)
+<br>
 
  **Task:**
- select any idea to work on as design
+ Copy those screen 
+ But keep in your mind you have to use : frames-autolayout-components and organize your file as much as possible
 
