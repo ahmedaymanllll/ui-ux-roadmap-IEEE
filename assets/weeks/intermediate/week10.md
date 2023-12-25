@@ -5,15 +5,13 @@
  **Articles:**
 
 
- **Vedios:**
- first 2 weeks
- - [Build Wireframes and Low-Fidelity Prototypes | Coursera](https://www.coursera.org/learn/wireframes-low-fidelity-prototypes?specialization=ux-design-certificate)
-   
-  OR<br>
-- [Build Wireframes and Low-Fidelity Prototypes | Playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6qLH3g9sg9atZG6DS5jZ5vf) <br>
-
-
+ **videos:**
+ 
+- [Color Theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
+- [How To make Color Palette](https://www.youtube.com/watch?v=yYwEnLYT55c) 
+- [60-30-10 Rule](https://www.youtube.com/watch?si=4MA6ViAru-xsilu6&v=xaqo_-8C5v0&feature=youtu.be) 
+- [How to add Colors into Figma](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
 
  **Task:**
- select any idea to work on as design
+ 
 
