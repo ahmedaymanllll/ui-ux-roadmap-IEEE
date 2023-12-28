@@ -11,6 +11,6 @@
 <br>
 
  **Task:**
- Copy those screen 
+ Copy this design 
  But keep in your mind you have to use : frames-autolayout-components and organize your file as much as possible
 
