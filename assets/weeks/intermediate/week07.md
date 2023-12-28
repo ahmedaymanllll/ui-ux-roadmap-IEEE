@@ -10,7 +10,7 @@
 - [Master Autolayout](https://www.youtube.com/watch?v=Kf8L3CeiWzQ&t=205s)
 
  **Task:**
- Copy those screens using autolayout
+ Copy this design using autolayout
 
 
     
