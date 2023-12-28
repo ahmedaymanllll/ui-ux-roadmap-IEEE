@@ -2,7 +2,8 @@
 
 ## Content:
 
-
+**Articles:**
+- [how to ensure a smooth design handoff](https://www.interaction-design.org/literature/article/how-to-ensure-a-smooth-design-handoff)
 
 
  **Videos:**
