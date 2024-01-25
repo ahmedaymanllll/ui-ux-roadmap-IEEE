@@ -10,7 +10,8 @@
 - [Master Autolayout](https://www.youtube.com/watch?v=Kf8L3CeiWzQ&t=205s)
 
  **Task:**
--  [Copy this design using autolayout](https://dribbble.com/shots/19561766-Trust-Wallet-App-New-design) 
+Copy this screen using autolayout 
+
 
 
     
