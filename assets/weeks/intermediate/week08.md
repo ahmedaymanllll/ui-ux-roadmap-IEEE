@@ -16,7 +16,12 @@
 
 
  **Task:**
- 
+ create component for :
+- Navbar
+- Button
+- Footer 
+- label 
+- card 
 
 
     
