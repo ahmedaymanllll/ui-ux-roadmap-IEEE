@@ -8,7 +8,7 @@
  **Videos:**
 - [Create a design system for Typography](https://www.youtube.com/watch?v=YjjD_AopSok&list=PL3D6gNbm5p0kXdPRvPhe5YsRklOPWd5ib&index=2)
 <br>
--Resources Will Help you to chosse your color :
+Resources Will Help you to chosse your Font :
 
  - [Typographic Scales in Web Design & UI Design](https://www.youtube.com/watch?v=ot-5dQG2v5M)
 - [How to choose fonts for your projects and what size to use ](https://www.youtube.com/watch?v=vnDh1KRN2GM)  
@@ -20,5 +20,5 @@
 choose font fit with your project idea and create its different sizes 
 - Headers
 - Body
-- Buttons 
+- Buttons <br>
 **then add them into figma** 
