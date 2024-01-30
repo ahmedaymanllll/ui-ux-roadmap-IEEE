@@ -14,7 +14,7 @@ Resources Will Help you to chosse your color :
 - [How to add Colors into Figma](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
 
 ### Task
-**Create your Project color system** 
+**Create your Project colors system** 
  - Create Main
  - Secondary
  - Basic Colors
