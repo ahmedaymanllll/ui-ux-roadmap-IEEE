@@ -18,4 +18,5 @@ Resources Will Help you to chosse your color :
  - Create Main
  - Secondary
  - Basic Colors
+ <br>
  with it's different shades then add them into figma
