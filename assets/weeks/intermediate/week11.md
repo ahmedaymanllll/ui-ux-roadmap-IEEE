@@ -7,7 +7,9 @@
 
  **Videos:**
 - [Create a design system for Typography](https://www.youtube.com/watch?v=YjjD_AopSok&list=PL3D6gNbm5p0kXdPRvPhe5YsRklOPWd5ib&index=2)
+- [Create a design system for Typography Part 2](https://www.youtube.com/watch?v=-ZzyL87lG1k&list=PL3D6gNbm5p0kXdPRvPhe5YsRklOPWd5ib&index=3)
 <br>
+
 Resources Will Help you to chosse your Font :
 
  - [Typographic Scales in Web Design & UI Design](https://www.youtube.com/watch?v=ot-5dQG2v5M)
