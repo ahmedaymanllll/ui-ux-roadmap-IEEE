@@ -1,8 +1,15 @@
-# Week 17: Clean Architecture Introduction & Clean Code (W01)
+# Week 18: Clean Code (W02) & SOLID Principles
 
 ## Content:
 
- **Videos**
-- [Module 4-Integrating Research into the design process](https://www.coursera.org/learn/foundations-user-experience-design/home/module/4)
+**Clean Code: (#04 → #08)**
+
+- [https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+
+**SOLID Principles**
+
+- [https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
 ## Tasks:
-Document what you have learned 
+
+> Presentation For explains All Topics in the content you understand.
