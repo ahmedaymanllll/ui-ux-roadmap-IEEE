@@ -2,14 +2,7 @@
 
 ## Content:
 
-**Clean Architecture Introduction**
-
-- [https://www.youtube.com/watch?v=kFll5whDTJc](https://www.youtube.com/watch?v=kFll5whDTJc)
-
-**Clean Code: (#0 → #03)**
-
-- [https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
-
+ **Videos**
+- [Module 4-Integrating Research into the design process](https://www.coursera.org/learn/foundations-user-experience-design/home/module/4)
 ## Tasks:
-
-> Practice in Previous Projects.
+Document what you have learned 

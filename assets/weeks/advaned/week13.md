@@ -1,5 +1,4 @@
-# Week 13: Animations
-
+# Week 13: 
 ## Content:
 
 **Articles**
