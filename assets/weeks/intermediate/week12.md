@@ -2,14 +2,6 @@
 
 ## Content:
 
- **Articles:**
-
-
- **Vedios:**
- 
-
-
- **Task:**
- 
+it's time to make your mega project
 
 

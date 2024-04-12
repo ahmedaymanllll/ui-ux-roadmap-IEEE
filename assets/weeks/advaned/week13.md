@@ -2,23 +2,12 @@
 
 ## Content:
 
-- Animations:
-    
-    [https://youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua](https://youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
-    
-
+**Articles**
+ - [UX Roles](https://medium.com/@mennaelgyar4/ux-roles-356d8ef68a3d)
+- [UX Research Methods](https://medium.com/@mennaelgyar4/ux-research-methods-92c6ecdc6a70)
+- [What Is the UX Design Process?](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/#:~:text=The%20UX%20design%20process%20can,UX%20is%20an%20iterative%20process.)   
+  
+  **Videos**
+- [Module 1-introduction To User Experience](https://www.coursera.org/learn/foundations-user-experience-design/home/module/1)
 ## Tasks:
-
-Using the FlutterLogo, TweenAnimatedBuilder, Animated Container, and Hero Widgets please create the following animations:
-
-First task:
-
-[task1.mp4](../../../assets/videos/Week%2013%20Animations%20-%20%20Tasks/task1.mp4)
-
-Second Task:
-
-[task2.mp4](../../../assets/videos//Week%2013%20Animations%20-%20%20Tasks/task2.mp4)
-
-Third Task:
-
-[task3.mp4](../../../assets/videos/Week%2013%20Animations%20-%20%20Tasks/task3.mp4)
+Document what you have learned 
