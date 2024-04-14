@@ -1,11 +1,9 @@
 ## Content:
+# it's time to make Your project:
 
- **Articles:**
-- [UI-Component Definition](https://www.nngroup.com/articles/cards-component/)
-- [Using Color to Enhance Your Design](nngroup.com/articles/color-enhance-design/)
-- [Using Imagery in Visual Design](nngroup.com/articles/imagery-in-visual-design/)
+### Project Details.
+- Any Idea For App Not less than 10 screen.
 
 
- **Task:**
- Any idea as a design (up 16 Screen)
+#### For resources to help you with your project, check the Resources channel on Discord.
 
