@@ -1,15 +1,9 @@
 # Week 6: 
 
-## Content:
+# it's time to make Your project:
 
- **Articles:**
-- [Proximity Principle in Visual Design](https://www.nngroup.com/articles/gestalt-proximity/)
-
- **Videos:**
-- [Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
-- [Proximity](https://www.youtube.com/watch?v=xUdqSiI_G8Y)
+### Project Details.
+- Any Idea For App Not less than 10 screen.
 
 
-
- **Task:**
- Any idea as a design (up 8 Screen)
+#### For resources to help you with your project, check the Resources channel on Discord.
