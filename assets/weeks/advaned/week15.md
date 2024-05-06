@@ -1,5 +1,4 @@
-# Week 16: State Management with Provider
-
+# Week 16: 
 ## Content:
  **Videos**
 - [Module 3-Joining design sprints](https://www.coursera.org/learn/foundations-user-experience-design/home/module/3)
