@@ -1,12 +1,13 @@
 # Week 12
 
-# it's time to make your mega project:
+## Content:
 
-### Project Details.
-- App Not less than 16 screen.
-- Using Autolayout.
-- Using Component.
-- Create Design System For Your Project.
-- Organize Your Figma File 
 
-#### For resources to help you with your project, check the Resources channel on Discord.
+ **Videos:**
+- [Design System part1-Foundation](https://www.youtube.com/watch?v=_SK2L3Nns_s&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN)
+- [Design System part2-Text Fields](https://www.youtube.com/watch?v=4STqQw-gMtE&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=2)
+
+
+# Task
+Make all possible variation for Text Fields
+
