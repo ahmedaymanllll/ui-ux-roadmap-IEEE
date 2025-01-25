@@ -2,7 +2,10 @@
 
 
  **Videos**
-- [Module 2-Thinking like a UX Designer](https://www.coursera.org/learn/foundations-user-experience-design/home/module/2)
+
+(https://www.youtube.com/watch?v=z3ruzLItPlM&t=1402s)
+https://www.youtube.com/watch?v=KLVRrFYCTHs&feature=youtu.be
+
 ## Tasks:
 Document what you have learned 
 
