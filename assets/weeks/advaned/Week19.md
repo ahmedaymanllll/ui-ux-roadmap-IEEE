@@ -16,5 +16,6 @@
 - [Survey](https://www.youtube.com/watch?v=BLAd6fiP-mg)
 
 ## Tasks:
-Define project objectives and target audience. 
-Conduct user research (interviews, survey)
+- Define project objectives and target audience. 
+- Questions to Ask in the First Meeting with Stakeholders and Their Answers
+- Conduct user research (interviews, survey)
