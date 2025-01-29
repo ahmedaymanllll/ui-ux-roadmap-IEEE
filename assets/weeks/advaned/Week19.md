@@ -13,7 +13,7 @@
 - [The Essential UX Interview Questions (And How To Answer Them!)](https://www.youtube.com/watch?v=vu3xcQm7cEo)
 
 **Videos Survey**
--[Survey](https://www.youtube.com/watch?v=BLAd6fiP-mg)
+- [Survey](https://www.youtube.com/watch?v=BLAd6fiP-mg)
 
 ## Tasks:
 Define project objectives and target audience. 
