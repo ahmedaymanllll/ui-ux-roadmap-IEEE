@@ -5,7 +5,7 @@
 - [Information Architecture](https://www.youtube.com/watch?v=TtvOiDxRPtE)
 
 **Videos UserFlow**
-- [هيكلة المعلومات وتدفق المستخدم](https://www.youtube.com/watch?v=_-xnGv_Gu0U&t=937s)
+- [Information Architecture & UserFlow](https://www.youtube.com/watch?v=_-xnGv_Gu0U&t=937s)
 - [UserFlow](https://www.youtube.com/watch?v=0_6z39YcMTo&t=417s)
 
 **Videos WireFrame**
