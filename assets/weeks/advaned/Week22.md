@@ -1,5 +1,5 @@
 # Week 22 ( Case Study ): 
-## Content ( Sprint - 4 ( Ideation & Wireframe )):
+## Content ( Sprint - 4 ( Ideation & Wireframe ) ):
 
  **Videos Information Architecture**
 - [Information Architecture](https://www.youtube.com/watch?v=TtvOiDxRPtE)
