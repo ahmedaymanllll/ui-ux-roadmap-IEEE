@@ -2,9 +2,6 @@
 # Articles
 - [Principles ForTypography in Ui Design](https://www.youtube.com/watch?v=GyVMoejbGFg)
 
-## Content
-<br>
-
 **videos**
 - [color theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
 - [How To make Color Palette](https://youtu.be/yYwEnLYT55c?si=55caHcQS029kjVqb) 
