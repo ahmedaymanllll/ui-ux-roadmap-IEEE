@@ -9,9 +9,8 @@
 
 Resources Will Help you to chosse your color :
 - [color theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
-- [60-30-10 Rule](https://www.youtube.com/watch?si=4MA6ViAru-xsilu6&v=xaqo_-8C5v0&feature=youtu.be)
-- [How To make Color Palette](https://www.youtube.com/watch?v=yYwEnLYT55c) 
-- [How to add Colors into Figma](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
+- [How To make Color Palette](https://youtu.be/yYwEnLYT55c?si=55caHcQS029kjVqb) 
+- [Color,Typography Styles](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
 
 ### Task
 **Create your Project colors system** 
