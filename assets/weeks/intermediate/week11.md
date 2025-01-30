@@ -9,4 +9,4 @@
 - [Design System part3-Buttons](https://www.youtube.com/watch?v=4STqQw-gMtE&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=2)
 
 # Task
-Make all possible variation for Text Fields,Buttons,Dropdowns,Checkbox and Radio button.
+Make all possible variation for Text Fields,Buttons.
