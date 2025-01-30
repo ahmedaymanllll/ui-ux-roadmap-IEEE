@@ -3,14 +3,15 @@
 ## Content:
 
  **Articles:** <br>
- ![icons8-note-16](https://user-images.githubusercontent.com/108477138/204140045-9378623b-2bfb-46a9-b38b-3bf04c54c7a5.png) Read More
 - [Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
-- [4 UI Design Tips](https://www.interaction-design.org/literature/article/4-ui-design-tips-every-designer-needs-to-know)
+- [7 UI Design Principles](https://www.figma.com/resource-library/ui-design-principles/)
 <br>
 videos
 <br>
 
- - [figma tool](https://www.youtube.com/watch?v=3Szjqa6v93I)
+ - [UI Design Principles](https://youtu.be/FmSjtWTIx1o?si=LJeQ5TqQ4FSEaNiT)<br>or<br>
+ - [UI Design Principles](https://youtu.be/NTmh8l-Xl4c?si=azzodmYdgweI6COc)
+ - [Mask Of Image](https://youtu.be/tUcBcz8bjVs?si=lFOWj4bjIovaj35j)
 
  **Task:**
  
