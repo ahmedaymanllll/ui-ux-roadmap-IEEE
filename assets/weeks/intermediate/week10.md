@@ -10,7 +10,7 @@
 Resources Will Help you to chosse your color :
 - [color theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
 - [How To make Color Palette](https://youtu.be/yYwEnLYT55c?si=55caHcQS029kjVqb) 
-- [Color,Typography Styles](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
+- [Styles in Figma](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
 
 ### Task
 **Create your Project colors system** 
