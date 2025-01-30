@@ -3,14 +3,13 @@
 ## Content:
 
  **Articles:**
-- [What is Visual Hierarchy](https://www.interaction-design.org/literature/topics/visual-hierarchy)
-- [Visual Hierarchy](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)
-
+- [Spacing in Ui Design](https://medium.com/@uiuxzee/ultimate-spacing-guide-for-ui-designers-342f4c61bd70)
  **Videos:**
-- [How to use Visual Hierarchy in UX Design](https://www.youtube.com/watch?v=q-ITCNz63mo)
-- [ Repetition](https://www.youtube.com/watch?v=8zhhc5pzE9Y)
+- [Spacing](https://youtu.be/ctXmOtBNwV8?si=cn4UTb9Rl0oW0y1p)
+- [Grids](https://youtu.be/dBE0zuTn29k?si=KlXGRz8J61R6jrUP)
+- [Icons size](https://youtu.be/OcFSsv_jTRw?si=H7DExAXJ8ciNdJ_Q)
 
 
 
  **Task:**
- - [ Travel app]( https://dribbble.com/shots/21531692-Tripin-Travel-app)
+ - (https://www.pinterest.com/pin/327425835421414295/)
