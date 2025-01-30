@@ -1,5 +1,6 @@
 # Week 10
-# Articles
+
+**Articles**
 - [Principles ForTypography in Ui Design](https://www.youtube.com/watch?v=GyVMoejbGFg)
 
 **videos**
