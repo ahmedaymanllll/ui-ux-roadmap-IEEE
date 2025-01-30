@@ -9,9 +9,7 @@
 - [Design System part3-Buttons](https://www.youtube.com/watch?v=4STqQw-gMtE&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=2)
 - [Design System part4-Dropdowns](https://youtu.be/MXnzu6RtHJU?si=Y0DRMDm-K7jZd3xI)
 - [Design System part5-Checkboxs& Radio buttons](https://youtu.be/MXnzu6RtHJU?si=Y0DRMDm-K7jZd3xI))
-  
-
-
+- [ Design System - Final Part - Pattern Library](https://www.youtube.com/watch?v=qu53GgSgOak&list=PLlzarBwg78omi49iNVXY_iTXvRm9V1tZN&index=6)
 
 # Task
 Make all possible variation for Text Fields,Buttons,Dropdowns,Checkbox and Radio button.
