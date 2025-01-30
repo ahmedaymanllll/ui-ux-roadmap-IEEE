@@ -1,17 +1,18 @@
 # Week 9
 
-## Content:
+**Articles**
+- [Principles ForTypography in Ui Design](https://www.youtube.com/watch?v=GyVMoejbGFg)
 
-**Articles:**
-- [how to ensure a smooth design handoff](https://www.interaction-design.org/literature/article/how-to-ensure-a-smooth-design-handoff)
+**videos**
+- [color theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
+- [How To make Color Palette](https://youtu.be/yYwEnLYT55c?si=55caHcQS029kjVqb) 
+- [Styles in Figma](https://www.youtube.com/watch?v=78Yiblp1Ib4) 
 
-
- **Videos:**
- 
- - [Organize Your Figma File](https://www.youtube.com/watch?v=3RjE5eEdAos&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=13)
-<br>
-
- **Task:**
-Make your own project
- But keep in your mind you have to use : frames-autolayout-components and organize your file as much as possible
-
+### Task
+**Create your Project colors system** 
+ - Create Main
+ - Secondary
+ - Basic Colors
+ - Add color, typography as styles
+ <br>
+ with it's different shades then add them into figma
