@@ -12,8 +12,8 @@
 - [Interactive Component](https://www.youtube.com/watch?v=otkYZD3VJ4E&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=9) 
 - [Boolean](https://www.youtube.com/watch?v=0_NRDUjnoPA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=12)
   <br><br>or<br>
-- [All About Component Part1](https://www.youtube.com/watch?v=WjmQWB06ao8&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=14)
-- [All About Component Part2](https://www.youtube.com/watch?v=WjmQWB06ao8&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=14)
+- [All About Component Part1](https://drive.google.com/file/d/1QO7auORVr3YDA8d_6VURVYqJJ2jcVVgh/view?usp=drive_link)
+- [All About Component Part2](https://drive.google.com/file/d/1QTIc7QiP0JwERSdhayY1HtDpFVldscHg/view?usp=drive_link)
  <br>
 
 
