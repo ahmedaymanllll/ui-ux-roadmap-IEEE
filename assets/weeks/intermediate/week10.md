@@ -15,7 +15,6 @@ Resources Will Help you to check your contrast :
 
  - [Contrast Checker](https://youtu.be/dOy3s0ycVbg?si=EqEYD8bfMOwUxevo)
 
-
-
-# Task
+**Task:**
+ - [E-commerace App](https://www.pinterest.com/pin/16325617395772683/)
 
