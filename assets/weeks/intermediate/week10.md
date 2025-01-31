@@ -6,8 +6,8 @@
 - [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
 
  **Videos:**
-- [Create a design system for Typography](https://www.youtube.com/watch?v=YjjD_AopSok&list=PL3D6gNbm5p0kXdPRvPhe5YsRklOPWd5ib&index=2)
-- [Create a design system for Typography Part 2](https://www.youtube.com/watch?v=-ZzyL87lG1k&list=PL3D6gNbm5p0kXdPRvPhe5YsRklOPWd5ib&index=3)
+- [Scrolling](https://youtu.be/ZVoZp9eNVdI?si=-If7UH3HsjBLczUT) <br>or<br>
+- [Scrolling](https://youtu.be/EobSNkzdN7A?si=EmVNKi53hbuT21-U)
 <br>
 
 Resources Will Help you to chosse your Font :
