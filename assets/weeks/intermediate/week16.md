@@ -3,9 +3,10 @@
 ## Content:
 **Videos:**
 
-- [Variables in figma]-(https://youtu.be/a6w1_ZaVhVo?si=k8Rnctd_MvQCAHYL)
+- [Variables in figma](https://youtu.be/a6w1_ZaVhVo?si=k8Rnctd_MvQCAHYL)
+- 
 **Task:**
-- [Redesign this task using Variable,Scrolling, Auto Layout, Grid, Spacing and Styles ]-(https://www.pinterest.com/pin/690317449164118246/)
+- [Redesign this task using Variable,Scrolling, Auto Layout, Grid, Spacing and Styles ](https://www.pinterest.com/pin/690317449164118246/)
 
 
 
