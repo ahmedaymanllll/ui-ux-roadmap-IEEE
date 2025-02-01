@@ -1,7 +1,7 @@
 # Week 9
 
 **Articles**
-- [Principles ForTypography in Ui Design](https://www.youtube.com/watch?v=GyVMoejbGFg)
+- [Principles of Typography in UI Design](https://uxplanet.org/principles-of-typography-in-ui-design-bc28f1f9666d)
 
 **videos**
 - [color theory](https://www.youtube.com/watch?v=GyVMoejbGFg)
