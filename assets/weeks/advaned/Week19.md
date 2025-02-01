@@ -1,6 +1,6 @@
 # Week 19 ( Case Study ): 
+## The project is a Case Study divided into 8 sprints, with each sprint lasting one week and including a set of specific tasks.By the end of the final sprint, the project will be fully completed and showcased on Behance.
 ## Content ( Sprint -1 ( Research & Planning ) ):
-
 **Articles interview**
 - [interviews](https://maze.co/guides/user-interviews/)
 - [Surveys](http://maze.co/guides/ux-surveys/)
