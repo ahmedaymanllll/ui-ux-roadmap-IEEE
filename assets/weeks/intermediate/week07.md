@@ -11,9 +11,9 @@
 
   **<br>or<br>**
 - [Auto Layout Part1](https://drive.google.com/file/d/1is05XUjoefPOFnNtbFg88bpg6NnSUoXQ/view?usp=drive_link)
-- [Auto Layout Part1](https://drive.google.com/file/d/1fIUXLLkLxjXeEBqFvCXuGnYz96OTyjGJ/view?usp=drive_link)
-- [Auto Layout Part1](https://drive.google.com/file/d/1BW42Hhdzk6NtNEyr4Ul0MWKQk2hHKYr1/view?usp=drive_link)
-- [Auto Layout Part1](https://drive.google.com/file/d/1Jfkcnw_asXPQQy8drKd4qKeB5r9Jfef2/view?usp=drive_link)
+- [Auto Layout Part2](https://drive.google.com/file/d/1fIUXLLkLxjXeEBqFvCXuGnYz96OTyjGJ/view?usp=drive_link)
+- [Auto Layout Part3](https://drive.google.com/file/d/1BW42Hhdzk6NtNEyr4Ul0MWKQk2hHKYr1/view?usp=drive_link)
+- [Auto Layout Part4](https://drive.google.com/file/d/1Jfkcnw_asXPQQy8drKd4qKeB5r9Jfef2/view?usp=drive_link)
 
  **Task:**
 - [Try To make this screen using autolayout](https://www.instagram.com/p/C1lx7oCtOUf/?igsh=MTFuMDM5Z3Jhemo4cA%3D%3D)
