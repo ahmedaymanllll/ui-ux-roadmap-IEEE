@@ -12,8 +12,7 @@
 - [Interactive Component](https://www.youtube.com/watch?v=otkYZD3VJ4E&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=9) 
 - [Boolean](https://www.youtube.com/watch?v=0_NRDUjnoPA&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=12)
   <br><br>or<br>
-- [All About Component Part1](https://drive.google.com/file/d/1QO7auORVr3YDA8d_6VURVYqJJ2jcVVgh/view?usp=drive_link)
-- [All About Component Part2](https://drive.google.com/file/d/1QTIc7QiP0JwERSdhayY1HtDpFVldscHg/view?usp=drive_link)
+- [All About Component ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=NL1t23c80bU&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=5)
  <br>
 
 
