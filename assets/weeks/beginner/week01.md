@@ -9,7 +9,7 @@
 - [ًWhat is UI/UX design?](https://youtu.be/Nje7GiGeKW0?si=l9lPM-G4ekzc9K4v)
 
 
-- [Figma Interface](https://drive.google.com/file/d/1ewYzq985TdTIUFwwfAO642MMS_yHJMi4/view?usp=drive_link)<br>
+- [Figma Interface ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=AZobRe96T-0&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=1)<br>
 or <br>
 - [Figma Interface](https://youtu.be/s24rJlamGJ4?si=i1fhPU0MPW5oiESP)<br>
  <br>
