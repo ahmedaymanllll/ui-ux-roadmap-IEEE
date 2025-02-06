@@ -12,7 +12,7 @@ videos
  - [UI Design Principles](https://youtu.be/FmSjtWTIx1o?si=LJeQ5TqQ4FSEaNiT)<br>or<br>
  - [UI Design Principles](https://youtu.be/NTmh8l-Xl4c?si=azzodmYdgweI6COc)
  - [Mask Of Image](https://youtu.be/tUcBcz8bjVs?si=lFOWj4bjIovaj35j)
- - [Plugins in figma](https://drive.google.com/file/d/1vP1fULzZZ_gJJRm1aeUWrNKP7BGss_G4/view?usp=drive_link)
+ - [Plugins in figma ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=iz_vvUGrOYU&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=2)
 
  **Task:**
  
