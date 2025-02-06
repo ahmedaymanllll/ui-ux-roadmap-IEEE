@@ -10,7 +10,7 @@
 - [ Advance Autolayout](https://www.youtube.com/watch?v=EEfqMYcCexo&list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-&index=16)
 
   **<br>or<br>**
-- [Auto Layout_Responsive Design ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=2Z-ClaiBrjY&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=4) 
+- [Auto Layout Responsive Design ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=2Z-ClaiBrjY&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=4) 
 
  **Task:**
 - [Try To make this screen using autolayout](https://www.instagram.com/p/C1lx7oCtOUf/?igsh=MTFuMDM5Z3Jhemo4cA%3D%3D)
