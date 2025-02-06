@@ -9,7 +9,7 @@
 - [Scrolling](https://youtu.be/ZVoZp9eNVdI?si=-If7UH3HsjBLczUT) <br>or<br>
 - [Scrolling](https://youtu.be/EobSNkzdN7A?si=EmVNKi53hbuT21-U)
 - [Contrast](https://youtu.be/d1E2M32UY5A?si=TC61M4rpedtIqEQq)
-- [Prototype in figma](https://drive.google.com/file/d/1Y6Qbk0MTVbompUInM5tj1k5TwbaXRNZ8/view?usp=drive_link)
+- [Prototype in figma ( IEEE Mancsc Vedios )](https://www.youtube.com/watch?v=chWci7kRxBY&list=PLJu3s68C-0EBzKfShemgITcNj0gyr53rd&index=3)
 <br>
 
 Resources Will Help you to check your contrast :
